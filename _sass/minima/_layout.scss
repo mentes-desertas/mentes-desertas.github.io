@@ -2,9 +2,10 @@
  * Site header
  */
 .site-header {
+  padding: 0px $spacing-unit;
   border-top: 0px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  border-bottom: 1px solid  $grey-color-light;
+  min-height: $spacing-unit * 1;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -12,10 +13,9 @@
 
 .site-title {
   @include relative-font-size(0.75);
-  font-weight: 300;
-  text-transform: uppercase;
+  font-weight: 900;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: 2px;
+  @include smcaps(2px);
   margin-bottom: 0;
   float: left;
   color: $text-color;
@@ -25,9 +25,20 @@
   }
 }
 
+h6.categories {
+  @include smcaps(2px);
+  @include relative-font-size(0.75);
+  line-height: $base-line-height * $base-font-size * 2.25;
+  color: $brand-color;
+  margin-bottom: 0px;
+  font-weight: 300;
+  text-align: center;
+}
+
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 0.75;
+  margin-top: 0px;
 
   .nav-trigger {
       display: none;
@@ -177,7 +188,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 0 ;
 }
 
 .page-heading {
@@ -213,16 +224,19 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
-  letter-spacing: -1px;
+  @include relative-font-size(1);
+  letter-spacing: 0px;
   line-height: 1;
+  font-weight: 900;
+  @include smcaps(2px);
 
   @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+    @include relative-font-size(1);
   }
 }
 
 .post-content {
+  padding: $spacing-unit $spacing-unit $spacing-unit $spacing-unit * 1.5;
   margin-bottom: $spacing-unit;
 
   h2 {
