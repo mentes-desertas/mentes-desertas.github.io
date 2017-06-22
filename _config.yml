@@ -26,7 +26,6 @@ github_username:  alfaiataria
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
   - jekyll-bootstrap-sass
