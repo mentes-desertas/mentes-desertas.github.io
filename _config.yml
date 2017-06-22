@@ -28,7 +28,6 @@ github_username:  alfaiataria
 markdown: kramdown
 gems:
   - jekyll-feed
-  - jekyll-bootstrap-sass
 exclude:
   - Gemfile
   - Gemfile.lock
