@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body onload="load()">
+  <body onload="load(); burning(); transport();">
     
     <div class="content-wrap">
     {% include header.html %}
@@ -24,9 +24,23 @@
                     duration: 300,
                     transition: 'ease',
                     clickSelector: '.toggle-panel',
-                    distanceX: '80%',
+                    distanceX: '90%',
                     enableEscapeKey: true
                 });
+  jQuery('.multi-menu a').click(function() {
+    $(this).addClass('active');
+  });
+  
+  $(document).ready(function(){
+            if ($(document).width() < 768 ) {
+            $('.submenu').removeClass('out');
+            $('.submenu').removeClass('show');
+          }
+        });
+
+    
+   
+    
   </script>
 
     </body>

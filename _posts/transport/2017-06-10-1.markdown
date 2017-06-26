@@ -1,8 +1,11 @@
 ---
-layout: transport
+layout: master
 title:  "The Road Not Taken"
 categories: transport
 author: Rober Frost
+contributor: Christina Casnellie
+imgs: 2
+year: 1916
 ---
 
 Two roads diverged in a yellow wood,  
