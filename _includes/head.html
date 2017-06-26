@@ -37,22 +37,20 @@
         {% endfor %}
       {% else %}
         {% for tag in tags_list %} 
-   
 
-    function {{ tag[0] }}()
-    {
-    document.getElementById('{{ tag[0] }}').href = {{ tag[0] }}2();
-    }
+        function {{ tag[0] }}()
+          {
+           return "/{{ tag[0] }}/" + Math.ceil(Math.random()*{{ tag[1].size }}) + ".html";
+          }
 
-    function {{ tag[0] }}2()
-    {
-     return "/{{ tag[0] }}/" + Math.ceil(Math.random()*{{ tag[1].size }}) + ".html";
-    }
+          
+        $(document).ready(function(){
+             $("a#{{ tag[0] }}").attr("href", {{ tag[0] }});
+        });
 
-       {% endfor %}
+        {% endfor %}
       {% endif %}
     {% assign tags_list = nil %}
-    
 
 </script>
 </head>
