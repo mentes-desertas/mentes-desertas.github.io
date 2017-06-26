@@ -4,17 +4,31 @@
   {% include head.html %}
 
   <body onload="load()">
-
+    
+    <div class="content-wrap">
     {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
+    <main class="page-content " aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
 
     {% include footer.html %}
+  </div>
+  {% include top_menu.html %}
+  <script type="text/javascript">
+  $('#scotch-panel').scotchPanel({
+                    containerSelector: 'body',
+                    direction: 'right',
+                    duration: 300,
+                    transition: 'ease',
+                    clickSelector: '.toggle-panel',
+                    distanceX: '80%',
+                    enableEscapeKey: true
+                });
+  </script>
 
-  </body>
+    </body>
 
 </html>
