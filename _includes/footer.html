@@ -1,43 +1,46 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
+  <div class="row">
+    <div class="col-md-6 col-12 footer-left">
+        <a  href="#">Acerca da <em>Antologia para mentes desertas</em> </a> / <a href="#">«Antologiadores»</a>
+    </div>
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
+
+      <div class="col-md-6 footer-right col-12">
+        <span class="categories">+ {{ page.categories }} = </span>
+
+        {% assign maxRelated = 4 %}
+        {% assign minCommonTags =  1 %}
+        {% assign maxRelatedCounter = 0 %}
+
+        {% for post in site.posts %}
+
+            {% assign sameTagCount = 0 %}
+            {% assign commonTags = '' %}
+
+            {% for category in post.categories %}
+              {% if post.url != page.url %}
+                {% if page.categories contains category %}
+
+                  {% assign sameTagCount = sameTagCount | plus: 1 %}
+                   {% capture tagmarkup %} {% endcapture %}
+                  {% assign commonTags = commonTags | append: tagmarkup %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            {% if sameTagCount >= minCommonTags %}
+              
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a> / 
+
+              {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+              {% if maxRelatedCounter >= maxRelated %}
+                {% break %}
+              {% endif %}
             {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+          {% endfor %}
       </div>
     </div>
 

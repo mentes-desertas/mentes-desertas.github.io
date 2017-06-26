@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "criatura en plegaria"
+title:  "Criatura en Plegaria"
 categories: burning
 author: Alejandra Pizarnik
 contributor: Patrícia Guerreiro Nunes
@@ -11,9 +11,9 @@ year: 1972
 criatura en plegaria  
 rabia contra la niebla  
 
-escrito                                     contra  
-en                                               la  
-el                                          opacidad  
+escrito                                  contra  
+en                                        la  
+el                                         opacidad  
 crepúsculo  
 
 
