@@ -157,7 +157,7 @@ pre {
  * Site header
  */
 .site-header {
-  padding: 0px 30px;
+  padding: 15px 30px;
   border-top: 0px solid #424242;
   border-bottom: 1px solid  #000;
   min-height: 30px;
@@ -178,7 +178,10 @@ pre {
   .site-title, .site-title:visited, h2.panel-title, h2.panel-title:visited {
     color: #424242; }
 
-h6.categories {
+h2.panel-title {
+  padding: 15px 0; }
+
+.categories {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 11.9px;
@@ -259,7 +262,8 @@ h6.categories {
     background-clip: padding-box;
     /* stops bg color from leaking outside the border: */ }
   .toggle-panel.close {
-    margin-right: 10px; }
+    margin-right: 10px;
+    margin-top: 25px; }
 
 .close {
   position: absolute;
@@ -338,8 +342,10 @@ h6.categories {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #cfcfcf;
-  padding: 30px 0; }
+  border-top: 1px solid #000;
+  padding: 15px 0;
+  min-height: 30px;
+  line-height: 47.25px; }
 
 .footer-heading {
   font-size: 15.75px;
@@ -386,6 +392,9 @@ h6.categories {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
+.footer-right, .footer-left {
+  padding: 0 60px; }
+
 /**
  * Page content
  */
