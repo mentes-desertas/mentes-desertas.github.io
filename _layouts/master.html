@@ -3,20 +3,21 @@ layout: default
 ---
 <article class="post " itemscope itemtype="http://schema.org/BlogPosting">
 
-
-
 <div class="row">
   <div class="post-img col-md-6 col-sm-12" itemprop="articleBody">
-     <img id="{{ page.categories }}" src="/assets/imgs/{{ page.categories }}/0-v.png">
+     <img id="{{ page.categories }}" src="/assets/imgs/{{ page.categories }}/0.png">
      
   </div>
   <div class="post-content col-md-6 col-sm-12" itemprop="articleBody">
    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-   <p class="post-meta">{% if page.author %}
-      <h6 itemprop="author" itemscope itemtype="http://schema.org/Person"><h6 itemprop="name">{{ page.author }}</h6></h6>
-      {% endif %}
-    </p>
+   <span class="post-meta">
+      <h4 itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <span itemprop="name">{% if page.author %} {{ page.author }}{% endif %}</span>  
+      <spam itemprop=dateCreated" itemscope itemtype="http://schema.org/dateCreated">{% if page.year %}— {{ page.year }} {% endif %}</spam></h4>
+   </span>
+
     {{ content }}
+    
   </div>
 </div>
 

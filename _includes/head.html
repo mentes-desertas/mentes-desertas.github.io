@@ -10,7 +10,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
    
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <script src="{{ "/assets/js/scotchPanels.js" | relative_url }}"></script>
@@ -22,13 +22,37 @@
   <script type="text/javascript">
     function load()
     {
-    document.getElementById('transport').src = t2();
+    document.getElementById('{{ page.categories }}').src = t2();
     }
 
     function t2()
     {
-     return "/assets/imgs/transport/" + Math.ceil(Math.random()*2) + "-v.jpg" 
+     return "/assets/imgs/{{ page.categories }}/" + Math.ceil(Math.random()*{{ page.imgs }}) + ".jpg";
     }
+    
+    {% assign tags_list = site.categories %}  
+      {% if tags_list.first[0] == null %}
+        {% for tag in tags_list %} 
+          {{ tag }}
+        {% endfor %}
+      {% else %}
+        {% for tag in tags_list %} 
+   
+
+    function {{ tag[0] }}()
+    {
+    document.getElementById('{{ tag[0] }}').href = {{ tag[0] }}2();
+    }
+
+    function {{ tag[0] }}2()
+    {
+     return "/{{ tag[0] }}/" + Math.ceil(Math.random()*{{ tag[1].size }}) + ".html";
+    }
+
+       {% endfor %}
+      {% endif %}
+    {% assign tags_list = nil %}
+    
 
 </script>
 </head>
