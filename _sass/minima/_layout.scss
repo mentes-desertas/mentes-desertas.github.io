@@ -4,7 +4,7 @@
 .site-header {
   padding: 0px $spacing-unit;
   border-top: 0px solid $grey-color-dark;
-  border-bottom: 1px solid  $grey-color-light;
+  border-bottom: 1px solid  #000;
   min-height: $spacing-unit * 1;
 
   // Positioning context for the mobile navigation icon
@@ -29,10 +29,11 @@ h6.categories {
   @include smcaps(2px);
   @include relative-font-size(0.75);
   line-height: $base-line-height * $base-font-size * 2.25;
-  color: $brand-color;
+  color: $grey-color;
   margin-bottom: 0px;
   font-weight: 300;
   text-align: center;
+  margin-left: - $spacing-unit ; 
 }
 
 .site-nav {
@@ -112,7 +113,20 @@ h6.categories {
   }
 }
 
-
+.toggle-panel {
+    display: inline-block;
+    margin-top: $spacing-unit/3+4;
+    border: 1px solid $brand-color;
+    padding: 0 $spacing-unit/6;
+    @include border-radius(2px);
+  .barra {
+      width: $spacing-unit/2+5;
+      height: $spacing-unit/30;
+      background-color: $brand-color;
+      margin: $spacing-unit/6 0;
+      @include border-radius(2px);
+    }
+}
 
 /**
  * Site footer
@@ -236,8 +250,9 @@ h6.categories {
 }
 
 .post-content {
-  padding: $spacing-unit $spacing-unit $spacing-unit $spacing-unit * 1.5;
+  padding: $spacing-unit $spacing-unit $spacing-unit $spacing-unit;
   margin-bottom: $spacing-unit;
+
 
   h2 {
     @include relative-font-size(2);
@@ -263,3 +278,11 @@ h6.categories {
     }
   }
 }
+
+.post-img {
+  img {
+  border-right: 1px solid #000;
+  }
+}
+
+
