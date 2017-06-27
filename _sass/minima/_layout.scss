@@ -230,7 +230,10 @@ h2.panel-title {
   border-top: 1px solid #000;
   padding: $spacing-unit/2 0;
   min-height: $spacing-unit * 1;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 1;
+  .categories {
+    line-height: $base-line-height * $base-font-size * 1;
+  }
 }
 
 .footer-heading {
@@ -294,7 +297,8 @@ h2.panel-title {
 }
 
 .footer-right, .footer-left {
-  padding: 0 $spacing-unit*2;
+  padding: $spacing-unit/2 $spacing-unit*2;
+
 }
 
 /**
@@ -337,12 +341,13 @@ h2.panel-title {
 }
 
 .post-title {
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.25);
   letter-spacing: 0px;
   margin-bottom: $spacing-unit/3;
-  line-height: 1;
+  line-height: 1.25;
   font-weight: 700;
   @include smcaps(2px);
+
 
   @include media-query($on-laptop) {
     @include relative-font-size(1.5);
@@ -350,7 +355,7 @@ h2.panel-title {
 }
 
 .post-content {
-  padding: $spacing-unit*2;
+  padding: $spacing-unit*2 $spacing-unit*2 $spacing-unit $spacing-unit*2;
   margin-bottom: 0;
   border-left: 1px solid #000;
   @include media-query($on-palm) {
@@ -383,6 +388,16 @@ h2.panel-title {
     }
   }
 }
+
+.subtitle {
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit/2;
+    display: block;
+    @include smcaps(2px);
+    @include relative-font-size(0.75);
+    color: $grey-color;
+    font-weight: 400;
+  }
 
 .post-img {
   padding-right: 0;

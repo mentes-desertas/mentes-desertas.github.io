@@ -5,20 +5,23 @@ layout: default
 
 <div class="row">
   <div class="post-img col-md-6 col-sm-12" itemprop="articleBody">
-     <img id="{{ page.categories }}" src="/assets/imgs/{{ page.categories }}/0.png">
+     <img id="{{ page.categories }}" src="/assets/imgs/0.png">
      
   </div>
   <div class="post-content col-md-6 col-sm-12" itemprop="articleBody">
-   <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+   <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}
+   </h1>
    <span class="post-meta">
       <h4 itemprop="author" itemscope itemtype="http://schema.org/Person">
       <span itemprop="name">{% if page.author %} {{ page.author }}{% endif %}</span>  
-      <spam itemprop=dateCreated" itemscope itemtype="http://schema.org/dateCreated">{% if page.year %}— {{ page.year }} {% endif %}</spam></h4>
+      <spam itemprop=dateCreated" itemscope itemtype="http://schema.org/dateCreated"></spam></h4>
    </span>
 
     {{ content }}
 
-
+    <span class="subtitle">
+    {% if page.year %} {{ page.year }} <br>{% endif %}
+    {% if page.subtitle %} — <br>{{ page.subtitle }}{% endif %}</span>
 
   </div>
 </div>
