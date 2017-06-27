@@ -1,0 +1,27 @@
+---
+layout: master
+title:  "San Martino del Carso"
+categories: desert
+author: Giuseppe Ungaretti
+contributor: Claire de Mattia
+imgs: 1
+year: 1916
+---
+
+Di queste case  
+Non è rimasto   
+Che qualche  
+Brandello di muro  
+
+Di tanti  
+Che mi corrispondevano  
+Non è rimasto  
+Neppure tanto  
+  
+Ma nel cuore  
+Nessuna croce manca  
+  
+E’ il mio cuore  
+Il paese più straziato  
+
+

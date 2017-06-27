@@ -1,0 +1,16 @@
+---
+layout: master
+title:  "Uma candeia"
+categories: beach
+author: Luís Miguel Nava
+contributor: Sara Campino
+imgs: 4
+year: 1989
+---
+
+
+Poisei na margem desta folha uma candeia, para que se tornassem mais claras as palavras deste texto. Uma candeia também ela feita de palavras e que, contrariamente às aparências, não está na margem mas dispersa nas palavras, de tal forma que, se eu falar das praias, por exemplo, o próprio olhar dos leitores torna visíveis os contornos dos banhistas.
+
+
+
+

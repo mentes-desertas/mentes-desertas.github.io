@@ -1,0 +1,15 @@
+---
+layout: master
+title:  "V(l)er"
+categories: foreign
+author: Abílio-José Santos
+contributor: Irina Pereira
+imgs: 4
+---
+
+<img src="/assets/extras/abilio.png">
+
+
+
+
+
