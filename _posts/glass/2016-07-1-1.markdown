@@ -1,9 +1,8 @@
 ---
 layout: master
 title:  "Uma vida esquecida "
-subtitle: "[fragmento «1» do conjunto «Filmagens»]"
 categories: glass
-author: Al Berto
+author: António Maria Lisboa
 contributor: Sara Campino
 imgs: 1
 year: 1952
