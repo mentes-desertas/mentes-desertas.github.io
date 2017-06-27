@@ -474,7 +474,8 @@ h2.panel-title {
 
 .post-img {
   padding-right: 0;
-  background-image: url("/assets/imgs/p4.png"); }
+  /* background-image: url('/assets/imgs/p4.png'); */
+  background-color: whitesmoke; }
 
 /**
  * Syntax highlighting styles

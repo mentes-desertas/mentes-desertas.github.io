@@ -17,6 +17,7 @@ $brand-color:      #ff5252 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 30%) !default;
+$grey-color-xlight: lighten($grey-color, 45%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 // Width of the content area

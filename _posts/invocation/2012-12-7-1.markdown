@@ -1,0 +1,16 @@
+---
+layout: master
+title:  "A Larva"
+categories: invocation
+author: Werner Aspenström
+contributor: Luca Argel
+imgs: 1
+---
+
+Eu me estico para fora de minha folha de cerejeira  
+e sondo a eternidade:  
+a eternidade hoje está grande demais  
+Acho que vou ficar aqui em minha folha de cerejeira  
+avaliar o tamanho de minha verde folha de cerejeira.  
+
+

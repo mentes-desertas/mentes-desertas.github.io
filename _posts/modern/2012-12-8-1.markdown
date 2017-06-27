@@ -1,0 +1,14 @@
+---
+layout: master
+title:  "r"
+subtitle: "[fragmento «r» do poema «Saudação a Walt Whitman»]"
+categories: modern
+author: Álvaro de Campos
+contributor: Catarina Afonso
+imgs: 5
+---
+
+O verdadeiro poema moderno é a vida sem poemas,  
+É o comboio real e não os versos que o cantam  
+É o ferro dos rails, dos rails quentes, é o ferro das rodas, é o giro real delas.  
+E não os meus poemas falando de rails e de rodas sem eles.  
