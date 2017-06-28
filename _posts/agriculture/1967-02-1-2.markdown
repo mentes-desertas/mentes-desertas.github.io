@@ -4,7 +4,7 @@ title:  "O Açúcar"
 categories: agriculture
 author: Ferreira Gullar
 contributor: Rita Gomes
-imgs: 2
+imgs: 3
 ---
 
 O branco açúcar que adoçará meu café   
