@@ -179,9 +179,7 @@ pre {
     .site-title, h2.panel-title {
       text-transform: uppercase;
       letter-spacing: 0px;
-      line-height: 24.75px;
-      padding-top: 5px;
-      display: block; } }
+      line-height: 37.125px; } }
   .site-title, .site-title:visited, h2.panel-title, h2.panel-title:visited {
     color: #424242; }
 
@@ -270,7 +268,7 @@ h2.panel-title {
   .pos-absol {
     position: absolute;
     right: 25px;
-    top: 13px; } }
+    top: 15px; } }
 
 .toggle-panel {
   display: inline-block;
@@ -333,9 +331,6 @@ h2.panel-title {
     text-align: center; }
     @media screen and (max-width: 600px) {
       #scotch-panel h2.panel-title {
-        text-transform: uppercase;
-        letter-spacing: 0px;
-        line-height: 37.125px;
         padding-left: 0; } }
   #scotch-panel .multi-menu {
     padding: 0;
