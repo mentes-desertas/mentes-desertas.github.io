@@ -77,7 +77,7 @@ a {
   a:visited {
     color: #ff0606; }
   a:hover {
-    color: #ff5252;
+    color: #000;
     text-decoration: none; }
   .social-media-list a:hover {
     text-decoration: none; }
@@ -167,24 +167,26 @@ pre {
       padding-right: 15px;
       padding-left: 15px; } }
 
-.site-title, h2.panel-title {
+a.site-title, h2.panel-title {
   font-size: 12.75px;
   font-weight: 400;
   line-height: 55.6875px;
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: 0;
-  color: #111; }
+  color: #000; }
+  a.site-title:hover, h2.panel-title:hover {
+    color: #ff5252; }
   @media screen and (max-width: 600px) {
-    .site-title, h2.panel-title {
+    a.site-title, h2.panel-title {
       text-transform: uppercase;
       letter-spacing: 0px;
       line-height: 37.125px; } }
-  .site-title, .site-title:visited, h2.panel-title, h2.panel-title:visited {
-    color: #424242; }
 
 h2.panel-title {
   padding: 15px 0; }
+  h2.panel-title:hover {
+    color: #111; }
 
 .categories {
   text-transform: uppercase;
