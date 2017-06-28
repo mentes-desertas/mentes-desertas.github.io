@@ -1,8 +1,21 @@
 ---
-layout: default
+layout: alternate-1
+title: "home"
+subtitle: "—"
 ---
 
-<div class="home">
+
+<script type="text/javascript">
+  
+  var items = Array("agriculture", "alarm", "antiquity", "beach", "burning", "business", "camera", "canal", "dancing", "desert", "dress", "egypt", "erosion", "foreign", "glass", "greece", "hazardous", "highway", "illusion", "invocation", "journal", "key", "lake", "landscape", "light", "luxuriant", "medicine", "modern", "mountain", "national", "north", "organization", "paper", "performer", "plague", "portugal", "pyramid", "question", "rock", "sand", "transport", "urban", "utility", "voice", "winter", "work", "writing", "year", "zero", "zoo");
+  var item = items[Math.floor(Math.random()*items.length)];
+
+  window.location = "/" + item + "/1.html";
+
+</script>
+
+
+<!--<div class="home">
 
   <h1 class="page-heading">Posts</h1>
   
@@ -23,4 +36,4 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
-</div>
+</div>-->
