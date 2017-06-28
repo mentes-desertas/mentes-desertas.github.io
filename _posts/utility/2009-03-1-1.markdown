@@ -1,6 +1,6 @@
 ---
 layout: master
-title: "O Regaço Urbanizado"
+title: "Sabiá com Trevas"
 subtitle: "[fragmento «IX.» do conjunto «Sabiá com Trevas»]"
 categories: utility
 author: Manoel de Barros
