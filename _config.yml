@@ -18,7 +18,7 @@ email: ruisilva@alfaiataria.org
 description: > # this means to ignore newlines until "baseurl:"
   Antologia combinatória de poesia e de imagens da biblioteca do Congresso Americano
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mentes-desertas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  alfaiataria
 
