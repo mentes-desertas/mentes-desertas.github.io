@@ -20,22 +20,24 @@
   {% include google-analytics.html %}
   {% endif %}
   <script type="text/javascript">
-    function load()
-    {
-    document.getElementById('{{ page.categories }}').src = t2();
-    }
+    
 
-    function t2()
-    {
-     return "/assets/imgs/{{ page.categories }}/" + Math.ceil(Math.random()*{{ page.imgs }}) + ".jpg";
-    }
+    function imagem()
+          {
+           return "/assets/imgs/{{ page.categories }}/" + Math.ceil(Math.random()*{% if page.imgs) %} {{ page.imgs }}{% else %}1 {% endif %}) + ".jpg"
+          };
+
+          
+        $(document).ready(function(){
+             $("img#{% if page.categories) %}{{ page.categories }}{% else %}1 {% endif %}").attr("src", imagem);
+        });
     
     {% assign tags_list = site.categories %}  
       {% if tags_list.first[0] == null %}
         {% for tag in tags_list %} 
           {{ tag }}
         {% endfor %}
-      {% else %}
+      
         {% for tag in tags_list %} 
 
         function {{ tag[0] }}()
@@ -51,6 +53,8 @@
         {% endfor %}
       {% endif %}
     {% assign tags_list = nil %}
+
+  
 
 </script>
 </head>
