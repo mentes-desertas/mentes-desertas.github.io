@@ -25,9 +25,7 @@
   color: $text-color;
   @include media-query($on-palm) {
     @include smcaps(0px);
-    line-height: $base-line-height * $base-font-size * 1;
-    padding-top: $spacing-unit/6;
-    display: block;
+    line-height: $base-line-height * $base-font-size * 1.5;
   }
   &,
   &:visited {
@@ -150,7 +148,7 @@ h2.panel-title {
   @include media-query($on-palm) {
     position: absolute;
     right: 25px;
-    top: 13px;
+    top: 15px;
   }
 }
 
@@ -213,9 +211,7 @@ h2.panel-title {
     padding-left: $spacing-unit;
     text-align: center;
     @include media-query($on-palm) {
-    @include smcaps(0px);
-    line-height: $base-line-height * $base-font-size * 1.5;
-    padding-left: 0;
+      padding-left: 0;
   }
 
   }
