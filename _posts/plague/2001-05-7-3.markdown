@@ -4,7 +4,7 @@ title:  "O Jardim"
 categories: plague
 author: António Ramos Rosa
 contributor: Filipa
-imgs: 2
+imgs: 11
 year: 1986
 ---
 

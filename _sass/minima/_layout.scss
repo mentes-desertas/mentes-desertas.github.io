@@ -23,6 +23,10 @@
   @include smcaps(2px);
   margin-bottom: 0;
   color: $text-color;
+  @include media-query($on-palm) {
+    @include smcaps(1px);
+    line-height: $base-line-height * $base-font-size * 1.5;
+  }
   &,
   &:visited {
     color: $grey-color-dark;
@@ -39,8 +43,16 @@ h2.panel-title {
   line-height: $base-line-height * $base-font-size * 2.25;
   color: $grey-color;
   margin-bottom: 0px;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center;
+  &.top-right {
+    text-align: right;
+    color: #000;
+  }
+  @include media-query($on-palm) {
+    @include smcaps(1px);
+    line-height: $base-line-height * $base-font-size * 1.5;
+  }
 }
 
 .site-nav {
@@ -298,6 +310,9 @@ h2.panel-title {
 
 .footer-right, .footer-left {
   padding: $spacing-unit/2 $spacing-unit*2;
+  @include media-query($on-palm) {
+    padding: $spacing-unit/2 $spacing-unit;
+  }
 
 }
 
@@ -405,4 +420,51 @@ h2.panel-title {
   background-color: $grey-color-xlight;
 }
 
+/**
+ * autores
+ */
 
+.mywrapper {
+  padding: $spacing-unit;
+  @include media-query($on-palm) {
+    padding: $spacing-unit/2;
+  }
+}
+
+ .listinha {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    .categories {
+      line-height: $base-line-height * $base-font-size * 1;
+      display: block;
+      text-align: left;
+      margin-top: $spacing-unit;
+      padding-bottom: $spacing-unit/3;
+    }
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      li:first-of-type {
+        display: none;
+        visibility: hidden;
+        height: 0;
+        width: 0;
+        overflow: hidden;
+      }
+      li {
+        padding: $spacing-unit/3 0;
+        border-top: 1px solid #000;
+      }
+      .autor {
+          display: block;
+          @include smcaps(2px);
+          margin-bottom: $spacing-unit/10;
+          @include relative-font-size(0.85);
+        }
+      .contributor {
+        @include relative-font-size(0.75);
+      }
+    }
+ }

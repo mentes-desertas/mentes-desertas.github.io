@@ -175,6 +175,11 @@ pre {
   letter-spacing: 2px;
   margin-bottom: 0;
   color: #111; }
+  @media screen and (max-width: 600px) {
+    .site-title, h2.panel-title {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      line-height: 37.125px; } }
   .site-title, .site-title:visited, h2.panel-title, h2.panel-title:visited {
     color: #424242; }
 
@@ -188,8 +193,16 @@ h2.panel-title {
   line-height: 55.6875px;
   color: #828282;
   margin-bottom: 0px;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center; }
+  .categories.top-right {
+    text-align: right;
+    color: #000; }
+  @media screen and (max-width: 600px) {
+    .categories {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      line-height: 37.125px; } }
 
 .site-nav {
   float: right;
@@ -396,6 +409,9 @@ h2.panel-title {
     width: calc(100% - (30px / 2)); } }
 .footer-right, .footer-left {
   padding: 15px 60px; }
+  @media screen and (max-width: 600px) {
+    .footer-right, .footer-left {
+      padding: 15px 30px; } }
 
 /**
  * Page content
@@ -476,6 +492,47 @@ h2.panel-title {
   padding-right: 0;
   /* background-image: url('/assets/imgs/p4.png'); */
   background-color: whitesmoke; }
+
+/**
+ * autores
+ */
+.mywrapper {
+  padding: 30px; }
+  @media screen and (max-width: 600px) {
+    .mywrapper {
+      padding: 15px; } }
+
+.listinha {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+  .listinha .categories {
+    line-height: 24.75px;
+    display: block;
+    text-align: left;
+    margin-top: 30px;
+    padding-bottom: 10px; }
+  .listinha ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none; }
+    .listinha ul li:first-of-type {
+      display: none;
+      visibility: hidden;
+      height: 0;
+      width: 0;
+      overflow: hidden; }
+    .listinha ul li {
+      padding: 10px 0;
+      border-top: 1px solid #000; }
+    .listinha ul .autor {
+      display: block;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 3px;
+      font-size: 12.75px; }
+    .listinha ul .contributor {
+      font-size: 11.25px; }
 
 /**
  * Syntax highlighting styles

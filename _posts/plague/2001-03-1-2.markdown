@@ -4,7 +4,7 @@ title:  "A noite é o manicómio das plantas"
 categories: plague
 author: Raúl Zurita
 contributor: Bruno Ministro
-imgs: 2
+imgs: 11
 year: 1979
 ---
 
