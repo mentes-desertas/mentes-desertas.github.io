@@ -25,7 +25,9 @@
   color: $text-color;
   @include media-query($on-palm) {
     @include smcaps(0px);
-    line-height: $base-line-height * $base-font-size * 1.5;
+    line-height: $base-line-height * $base-font-size * 1;
+    padding-top: $spacing-unit/6;
+    display: block;
   }
   &,
   &:visited {
@@ -51,16 +53,17 @@ h2.panel-title {
   }
   @include media-query($on-palm) {
     @include smcaps(1px);
-    line-height: $base-line-height * $base-font-size * 1.5;
+    line-height: $base-line-height * $base-font-size * 1;
   }
 }
 
 .p-autores {
-  .site-title, .categories.top-right {
+  .site-title, .categories.top-right, .categories {
   @include media-query($on-palm) {
     text-align: center;
     display: inherit;
     @include smcaps(1px);
+    line-height: $base-line-height * $base-font-size * 1.5;
   }
   }
 }
@@ -201,6 +204,11 @@ h2.panel-title {
   h2.panel-title {
     padding-left: $spacing-unit;
     text-align: center;
+    @include media-query($on-palm) {
+    @include smcaps(0px);
+    line-height: $base-line-height * $base-font-size * 1.5;
+    padding-left: 0;
+  }
 
   }
   .multi-menu {
