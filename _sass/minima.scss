@@ -25,6 +25,7 @@ $content-width:    100% !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
+$tablet: "(min-width: 600px) and (max-width: 1024px)";
 
 // Use media queries like this:
 // @include media-query($on-palm) {

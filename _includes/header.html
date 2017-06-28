@@ -9,7 +9,7 @@
         <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       </div>
       <div class="col-md-2 hidden-sm-down">
-         {% if page.categories %}<h6 class="categories ">{ {{ page.categories }} }</h6>{% endif %} 
+         {% if page.categories %}<h6 class="categories-with-bar categories">{{ page.categories }}</h6>{% endif %} 
       </div>
       <div class="col-md-5 col-1 pos-absol text-right">
           <a href="#" class="toggle-panel">
