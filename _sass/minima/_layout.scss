@@ -24,7 +24,7 @@
   margin-bottom: 0;
   color: $text-color;
   @include media-query($on-palm) {
-    @include smcaps(1px);
+    @include smcaps(0px);
     line-height: $base-line-height * $base-font-size * 1.5;
   }
   &,
@@ -54,6 +54,17 @@ h2.panel-title {
     line-height: $base-line-height * $base-font-size * 1.5;
   }
 }
+
+.p-autores {
+  .site-title, .categories.top-right {
+  @include media-query($on-palm) {
+    text-align: center;
+    display: inherit;
+    @include smcaps(1px);
+  }
+  }
+}
+
 
 .site-nav {
   float: right;
@@ -138,6 +149,10 @@ h2.panel-title {
     border: 1px solid $brand-color;
     padding: 0 $spacing-unit/6;
     @include border-radius(2px);
+    @include media-query($on-palm) {
+      margin-top: $spacing-unit/6;
+      margin-left: - $spacing-unit/6;
+    }
   .barra {
       width: $spacing-unit/2+5;
       height: $spacing-unit/30;
@@ -148,6 +163,10 @@ h2.panel-title {
     &.close {
       margin-right: $spacing-unit/3;
       margin-top: $spacing-unit - 5;
+      @include media-query($on-palm) {
+      margin-right: 0;
+      margin-top: $spacing-unit/2 + 5;
+    }
     }
 }
 
