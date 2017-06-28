@@ -12,15 +12,15 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     
-    <div class="row">
+    <div class="row p-autores">
       <div class="col-md-5 col-12">
-        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a class="site-title " href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       </div>
       <div class="col-md-2 col-12">
-         <h6 class="categories ">índice</h6>
+         <h6 class="categories  ">{{ page.subtitle }}</h6>
       </div>
       <div class="col-md-5 col-12 text-right">
-          <h6 class="categories top-right">autores & «antologiadores»</h6>
+          <h6 class="categories top-right">{{ page.title }}</h6>
       </div>
 
       
