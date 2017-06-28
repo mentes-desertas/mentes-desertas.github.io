@@ -4,7 +4,7 @@ title:  "Necrológico dos Desiludidos do Amor"
 categories: illusion
 author: Carlos Drummond de Andrade
 contributor: Catarina Afonso
-imgs: 3
+imgs: 2
 year: 1962
 ---
 

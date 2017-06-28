@@ -1,0 +1,32 @@
+---
+layout: master
+title:  "La suma"
+categories: zero
+author: Jorge Luís Borges
+contributor: Alexandra Oliveira
+imgs: 1
+year: 1985
+---
+
+Ante la cal de una pared que nada  
+nos veda imaginar como infinita  
+un hombre se ha sentado y premedita  
+trazar con rigurosa pincelada  
+en la blanca pared el mundo entero:  
+puertas, balanzas, tártaros, jacintos,  
+ángeles, bibliotecas, laberintos,  
+anclas, Uxmal, el infinito, el cero.  
+Puebla de formas la pared. La suerte,  
+que de curiosos dones no es avara,  
+le permite dar fin a su porfía.  
+En el preciso instante de la muerte  
+descubre que esa vasta algarabía  
+de líneas es la imagen de su cara.  
+ 
+
+  
+
+
+
+
+

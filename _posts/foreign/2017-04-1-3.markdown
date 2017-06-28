@@ -1,0 +1,38 @@
+---
+layout: master
+title:  "La Extranjera"
+categories: foreign
+author: Gabriela Mistral
+contributor: Héctor Arnau
+imgs: 4
+---
+
+
+*A Francis de Miomandre*  
+                
+Habla con dejo de sus mares bárbaros,  
+con no sé qué algas y no sé qué arenas;  
+reza oración a dios sin bulto y peso,  
+envejecida como si muriera.  
+Ese huerto nuestro que nos hizo extraño,  
+ha puesto cactus y zarpadas hierbas.  
+                
+Alienta del resuello del desierto  
+y ha amado con pasión de que blanquea,  
+que nunca cuenta y que si nos contase  
+sería como el mapa de otra estrella.  
+                
+Vivirá entre nosotros ochenta años,  
+pero siempre será como si llega,  
+hablando lengua que jadea y gime  
+y que le entienden sólo bestezuelas.  
+Y va a morirse en medio de nosotros,  
+en una noche en la que más padezca,  
+con sólo su destino por almohada,  
+de una muerte callada y extranjera.  
+
+
+
+
+
+
