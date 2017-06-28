@@ -549,14 +549,16 @@ h2.panel-title {
 .lista-imagens {
   margin: 0;
   padding: 0;
-  list-style-type: none; }
+  list-style-type: none;
+  border-bottom: 2px solid #ff5252; }
   .lista-imagens .categories {
     line-height: 24.75px;
     display: block;
-    text-align: left;
-    margin-top: 30px;
+    text-align: center;
+    margin-top: 0;
     padding-bottom: 10px;
-    padding-top: 10px; }
+    padding-top: 10px;
+    font-weight: 700; }
   .lista-imagens ul {
     margin: 0;
     padding: 0;
@@ -564,7 +566,7 @@ h2.panel-title {
     .lista-imagens ul li {
       padding-bottom: 10px;
       margin-bottom: 10px;
-      border-bottom: 1px solid #cfcfcf; }
+      border-bottom: 0px solid #cfcfcf; }
   .lista-imagens a {
     display: block;
     margin-top: 10px;
@@ -607,6 +609,17 @@ h2.panel-title {
       font-size: 12.75px; }
     .listinha ul .contributor {
       font-size: 11.25px; }
+
+.card-columns {
+  column-count: 6; }
+  @media (min-width: 600px) and (max-width: 1024px) {
+    .card-columns {
+      column-count: 4; } }
+  @media screen and (max-width: 600px) {
+    .card-columns {
+      column-count: 1; } }
+  .card-columns .card {
+    border: 0; }
 
 /**
  * Syntax highlighting styles

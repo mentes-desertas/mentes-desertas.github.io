@@ -490,13 +490,15 @@ h2.panel-title {
     margin: 0;
     padding: 0;
     list-style-type: none;
+    border-bottom: 2px solid $brand-color;
       .categories {
         line-height: $base-line-height * $base-font-size * 1;
         display: block;
-        text-align: left;
-        margin-top: $spacing-unit;
+        text-align: center;
+        margin-top: 0;
         padding-bottom: $spacing-unit/3;
         padding-top: $spacing-unit/3;
+        font-weight: 700;
       }
       ul {
       margin: 0;
@@ -505,7 +507,7 @@ h2.panel-title {
         li {
           padding-bottom: $spacing-unit/3;
           margin-bottom: $spacing-unit/3;
-          border-bottom: 1px solid $grey-color-light;
+          border-bottom: 0px solid $grey-color-light;
         }
       }
       a {
@@ -559,3 +561,16 @@ h2.panel-title {
     }
 
  }
+
+ .card-columns {
+  column-count: 6;
+  @media #{$tablet} {
+    column-count: 4;
+  }
+  @include media-query($on-palm) {
+    column-count: 1;
+  }
+  .card {
+    border: 0;
+  }
+}
