@@ -146,6 +146,14 @@ h2.panel-title {
   }
 }
 
+.pos-absol {
+  @include media-query($on-palm) {
+    position: absolute;
+    right: 25px;
+    top: 13px;
+  }
+}
+
 .toggle-panel {
     display: inline-block;
     margin-top: $spacing-unit/3;
