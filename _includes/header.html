@@ -5,13 +5,13 @@
     {% assign page_paths = site.header_pages | default: default_paths %}
     
     <div class="row">
-      <div class="col-md-5 col-10">
+      <div class="col-md-5 col-11">
         <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       </div>
       <div class="col-md-2 hidden-sm-down">
          {% if page.categories %}<h6 class="categories ">{ {{ page.categories }} }</h6>{% endif %} 
       </div>
-      <div class="col-md-5 col-2 text-right">
+      <div class="col-md-5 col-1 text-right">
           <a href="#" class="toggle-panel">
             <div class="barra" ></div>
             <div class="barra" ></div>
