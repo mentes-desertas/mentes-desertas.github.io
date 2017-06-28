@@ -1,0 +1,23 @@
+<script type="text/javascript">
+    {% assign tags_list = site.categories %}  
+      {% if tags_list.first[0] == null %}
+        {% for tag in tags_list %} 
+          {{ tag }}
+        {% endfor %}
+      {% else %}
+        {% for tag in tags_list %} 
+
+        function {{ tag[0] }}()
+          {
+           return "/{{ tag[0] }}/" + Math.ceil(Math.random()*{{ tag[1].size }}) + ".html";
+          }
+
+          
+        $(document).ready(function(){
+             $("a#{{ tag[0] }}").attr("href", {{ tag[0] }});
+        });
+
+        {% endfor %}
+      {% endif %}
+    {% assign tags_list = nil %}
+</script>
