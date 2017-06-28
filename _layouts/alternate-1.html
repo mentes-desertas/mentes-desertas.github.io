@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body onload="load(); ">
+    
+    <div class="content-wrap">
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    
+    <div class="row">
+      <div class="col-md-5 col-12">
+        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      </div>
+      <div class="col-md-2 col-12">
+         <h6 class="categories ">índice</h6>
+      </div>
+      <div class="col-md-5 col-12 text-right">
+          <h6 class="categories top-right">autores & «antologiadores»</h6>
+      </div>
+
+      
+    </div>
+
+  </div>
+</header>
+
+    <main class="page-content " aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+  </div>
+  {% include top_menu.html %}
+  <script type="text/javascript">
+  $('#scotch-panel').scotchPanel({
+                    containerSelector: 'body',
+                    direction: 'right',
+                    duration: 300,
+                    transition: 'ease',
+                    clickSelector: '.toggle-panel',
+                    distanceX: '90%',
+                    enableEscapeKey: true
+                });
+  jQuery('.multi-menu a').click(function() {
+    $(this).addClass('active');
+  });
+  
+  $(document).ready(function(){
+            if ($(document).width() < 768 ) {
+            $('.submenu').removeClass('out');
+            $('.submenu').removeClass('show');
+          }
+        });
+
+    
+   
+    
+  </script>
+
+    </body>
+
+</html>
