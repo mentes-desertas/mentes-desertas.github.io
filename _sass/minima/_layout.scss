@@ -30,6 +30,10 @@ a.site-title, h2.panel-title {
     @include smcaps(0px);
     line-height: $base-line-height * $base-font-size * 1.5;
   }
+  @media #{$tablet} {
+    @include smcaps(0px);
+  }
+  
   
 }
 
@@ -38,6 +42,7 @@ h2.panel-title {
  &:hover {
     color: $text-color;
   }
+
 }
 
 .categories {
@@ -55,6 +60,22 @@ h2.panel-title {
   @include media-query($on-palm) {
     @include smcaps(1px);
     line-height: $base-line-height * $base-font-size * 1;
+  }
+  @media #{$tablet} {
+    @include smcaps(0px);
+  }
+}
+
+.categories-with-bar {
+  &::before { 
+    content: "{";
+    position: absolute;
+    margin-left: -10px;
+  }
+  &::after { 
+    content: "}";
+    position: absolute;
+    margin-left: 5px;
   }
 }
 
