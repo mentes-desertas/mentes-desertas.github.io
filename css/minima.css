@@ -266,6 +266,12 @@ h2.panel-title {
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
 
+@media screen and (max-width: 600px) {
+  .pos-absol {
+    position: absolute;
+    right: 25px;
+    top: 13px; } }
+
 .toggle-panel {
   display: inline-block;
   margin-top: 10px;
