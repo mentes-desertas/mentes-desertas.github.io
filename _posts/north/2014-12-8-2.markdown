@@ -1,0 +1,13 @@
+---
+layout: master
+title:  "Poèmes Esquimaux"
+categories: north
+author: Paul-Emile Victor
+contributor: Rovo
+imgs: 2
+---
+
+<img src="/assets/extras/esquimo-1.jpg">
+<img src="/assets/extras/esquimo-2.jpg">
+<img src="/assets/extras/esquimo-3.jpg">
+

@@ -381,7 +381,7 @@ h2.panel-title {
 
   h4 {
     @include relative-font-size(1.25);
-    margin-bottom: $spacing-unit*2;
+    margin-bottom: $spacing-unit;
     
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);

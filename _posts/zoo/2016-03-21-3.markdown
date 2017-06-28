@@ -1,0 +1,22 @@
+---
+layout: master
+title:  "IV. Do Mundo"
+subtitle: "[fragmento de «IV» do conjunto «Do Mundo»]"
+categories: zoo
+author: Herberto Helder
+contributor: Alexandra Oliveira
+imgs: 3
+year: 1996
+---
+
+A alimentação simples da fruta,  
+a sabedoria infusa,  
+as constelações ao alto zoológicas arquejando, brutais  
+animais vivos, e à mesa de súbito o ar deslocado nas palavras, como se  
+por cima do ombro respirasse a memória  
+assimétrica do mundo, e um idioma sem gramática,  
+uma rápida música descentrada,  
+fundassem tudo, e depois corressem  
+o bafo e o fogo.  
+
+

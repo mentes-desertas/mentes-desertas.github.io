@@ -4,7 +4,7 @@ title:  "A Larva"
 categories: invocation
 author: Werner Aspenström
 contributor: Luca Argel
-imgs: 1
+imgs: 2
 ---
 
 Eu me estico para fora de minha folha de cerejeira  

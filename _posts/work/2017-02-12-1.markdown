@@ -1,0 +1,16 @@
+---
+layout: master
+title:  "Do Mundo"
+subtitle: "[fragmento de «IV» do conjunto «Do Mundo»]"
+categories: work
+author: Herberto Helder
+contributor: Sara Campino
+imgs: 2
+year: 1996
+---
+
+Trabalha naquilo antigo enquanto o mundo se move  
+para o centro de si mesmo,  
+como se todos os pontos em que trabalhas fossem o centro do mundo.  
+
+
