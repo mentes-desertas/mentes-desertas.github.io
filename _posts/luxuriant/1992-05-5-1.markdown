@@ -9,7 +9,7 @@ year: 1986
 ---
 
 Consideremos o jardim, mundo de pequenas coisas,   
-calhaus, pétalas, folhas, dedos, línguas, sementes.   
+calhaus, pétalas, folhas, dedos, línguas, sementes.     
 Sequências de convergências e divergências,   
 ordem e dispersões, transparência de estruturas,   
 pausas de areia e de água, fábulas minúsculas.   

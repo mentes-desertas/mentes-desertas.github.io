@@ -16,25 +16,28 @@
   }
 }
 
-.site-title, h2.panel-title {
+a.site-title, h2.panel-title {
   @include relative-font-size(0.85);
   font-weight: 400;
   line-height: $base-line-height * $base-font-size * 2.25;
   @include smcaps(2px);
   margin-bottom: 0;
-  color: $text-color;
+  color: #000;
+  &:hover {
+    color: $brand-color;
+  }
   @include media-query($on-palm) {
     @include smcaps(0px);
     line-height: $base-line-height * $base-font-size * 1.5;
   }
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  
 }
 
 h2.panel-title {
  padding: $spacing-unit/2 0;
+ &:hover {
+    color: $text-color;
+  }
 }
 
 .categories {
