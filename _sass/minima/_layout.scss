@@ -34,7 +34,17 @@ a.site-title, h2.panel-title {
     @include smcaps(0px);
   }
   
+}
+
+a.site-title:hover::after {
   
+    content: "«Sai sempre prémio!»";
+    position: absolute;
+    margin-left: 10px;
+    @include relative-font-size(0.75);
+    color: $grey-color;
+    @include smcaps(0px);
+    text-transform: none;
 }
 
 h2.panel-title {
