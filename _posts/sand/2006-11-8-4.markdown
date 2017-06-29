@@ -3,7 +3,7 @@ layout: master
 title:  "I Go Down To The Shore"
 categories: sand
 author: Mary Oliver 
-contributor: Mónica Batista
+contributor: Christina Casnellie
 imgs: 2
 ---
 
