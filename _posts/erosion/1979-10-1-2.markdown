@@ -2,7 +2,7 @@
 layout: master
 title:  "Aos Vindourous, se os Houver..."
 categories: erosion
-author: Alexandre O'Neilla
+author: Alexandre O'Neill
 contributor: Sofia Arriscado
 imgs: 1
 year: 1962
