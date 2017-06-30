@@ -1,0 +1,28 @@
+<script type="text/javascript">
+
+
+  {% assign imgs_list = site.categories %}  
+      {% if imgs_list.first[0] == null %}
+        {% for img in imgs_list %} 
+          {{ img }}
+        {% endfor %}
+      {% else %}
+        {% for img in imgs_list %} 
+
+        function {{ img[0] }}()
+          {
+           return "/assets/imgs/{{ img[0] }}/" + Math.ceil(Math.random()*{% if img.imgs) %} {{ img.imgs }}{% else %}1 {% endif %}) + ".jpg"
+          };
+
+          
+  		$(document).ready(function(){
+             $("img#{{ img[0] }}").attr("src", {{ img[0] }});
+        });
+
+
+        {% endfor %}
+      {% endif %}
+    {% assign tags_list = nil %}
+  
+</script>
+    

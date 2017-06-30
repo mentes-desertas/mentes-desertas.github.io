@@ -620,7 +620,18 @@ h2.panel-title {
       font-size: 12.75px; }
     .listinha ul .contributor {
       font-size: 11.25px; }
+  .listinha.imagens-indice .categories {
+    display: block;
+    text-align: center; }
+  .listinha.imagens-indice li.indice-livro {
+    padding: 0;
+    border: 1px solid #cfcfcf; }
+  .listinha.imagens-indice .livrinho {
+    padding: 30px 15px 30px 0; }
 
+/**
+ * imagens
+ */
 .card-columns {
   column-count: 6; }
   @media (min-width: 600px) and (max-width: 1024px) {
@@ -632,6 +643,25 @@ h2.panel-title {
   .card-columns .card {
     border: 0; }
 
+/**
+ * imagens
+ */
+@media print {
+  a.site-title {
+    text-align: center;
+    display: block; }
+
+  .dontprint {
+    display: none; }
+
+  .site-header {
+    padding: 0 10px 10px 10px; }
+
+  .mywrapper {
+    padding: 0 50px; }
+
+  body {
+    font-size: 9.75px; } }
 /**
  * Syntax highlighting styles
  */
