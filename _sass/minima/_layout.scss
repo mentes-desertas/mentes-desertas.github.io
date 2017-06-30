@@ -569,8 +569,24 @@ h2.panel-title {
         @include relative-font-size(0.75);
       }
     }
-
+  &.imagens-indice {
+    .categories {
+      display: block;
+      text-align: center;
+    }
+    li.indice-livro {
+        padding: 0;
+        border: 1px solid $grey-color-light;
+      }
+    .livrinho {
+      padding: $spacing-unit $spacing-unit/2 $spacing-unit 0;
+    }
+  }
  }
+
+/**
+ * imagens
+ */
 
  .card-columns {
   column-count: 6;
@@ -584,3 +600,28 @@ h2.panel-title {
     border: 0;
   }
 }
+
+
+/**
+ * imagens
+ */
+@media print {
+  a.site-title {
+    text-align: center;
+    display: block;
+  }
+  .dontprint
+    { display: none; }
+  .site-header {
+        padding: 0 $spacing-unit/3 $spacing-unit/3 $spacing-unit/3;
+  }
+  .mywrapper {
+    padding: 0 50px;
+  }
+
+  body {
+    @include relative-font-size(0.65);
+  }
+}
+
+
