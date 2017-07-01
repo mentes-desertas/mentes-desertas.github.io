@@ -24,10 +24,10 @@ subtitle: "índice"
 
               <li id="{{ post.categories }}{{ post.id | remove: "/agriculture/" | remove: "/alarm/" | remove: "/antiquity/" | remove: "/beach/" | remove: "/burning/" | remove: "/business/" | remove: "/camera/" | remove: "/canal/" | remove: "/dancing/" | remove: "/desert/" | remove: "/dress/" | remove: "/egypt/" | remove: "/erosion/" | remove: "/foreign/" | remove: "/glass/" | remove: "/greece/" | remove: "/hazardous/" | remove: "/highway/" | remove: "/illusion/" | remove: "/invocation/" | remove: "/journal/" | remove: "/key/" | remove: "/lake/" | remove: "/landscape/" | remove: "/light/" | remove: "/luxuriant/" | remove: "/medicine/" | remove: "/modern/" | remove: "/mountain/" | remove: "/national/" | remove: "/north/" | remove: "/organization/" | remove: "/paper/" | remove: "/performer/" | remove: "/plague/" | remove: "/portugal/" | remove: "/pyramid/" | remove: "/question/" | remove: "/rock/" | remove: "/sand/" | remove: "/transport/" | remove: "/urban/" | remove: "/utility/" | remove: "/voice/" | remove: "/winter/" | remove: "/work/" | remove: "/writing/" | remove: "/year/" | remove: "/zero/" | remove: "/zoo/" }}" class="indice-livro" >
               <div class="row">
-                <div class="col-6">
+                <div class="col-sm-6">
                   <img id="{{ post.categories }}" src="/assets/imgs/0.png">
                 </div>
-                <div class="col-6">
+                <div class="col-sm-6">
                   <div class="livrinho">
                     <a href="{{ post.url }}" class="h5">{{ post.title }}</a>  <br>
                     <span class="autor"> {{ post.author }} {% if post.year %}<br> {{ post.year }} {% endif %} </span>
