@@ -664,6 +664,28 @@ h2.panel-title {
 
   body {
     font-size: 9.75px; } }
+/**
+ * páginas
+ */
+span.smcaps {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 12.75px; }
+
+blockquote {
+  color: #111;
+  border-left: 0;
+  padding-left: 30px;
+  font-size: 13.5px;
+  letter-spacing: 0px;
+  font-style: normal; }
+
+.toc-item {
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 12.75px; }
+
 .page-break.g-visible.um:before {
   content: "p. 2";
   text-transform: uppercase;

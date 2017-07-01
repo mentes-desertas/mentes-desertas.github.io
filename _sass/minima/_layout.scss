@@ -626,6 +626,34 @@ h2.panel-title {
   }
 }
 
+/**
+ * páginas
+ */
+
+span.smcaps {
+  @include smcaps(2px);
+  @include relative-font-size(0.85);
+}
+
+blockquote {
+  color: $text-color;
+  border-left: 0;
+  padding-left: $spacing-unit;
+  @include relative-font-size(0.9);
+  letter-spacing: 0px;
+  font-style: normal;
+} 
+
+.toc-item {
+  display: block;
+  @include smcaps(1px);
+  @include relative-font-size(0.85);
+}
+
+.page {
+
+}
+
 @mixin pagina-esquerda {
   text-transform: uppercase;
   position: absolute;
@@ -849,3 +877,4 @@ h2.panel-title {
   content: "p. 53";
   @include pagina-direita;
 }
+
