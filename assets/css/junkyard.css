@@ -1,0 +1,7104 @@
+        #gagriculture {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #agriculture1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #agriculture9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gagriculture.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #galarm {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #alarm1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #alarm9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #galarm.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gantiquity {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #antiquity1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #antiquity9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gantiquity.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gbeach {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #beach1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #beach9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gbeach.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gburning {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #burning1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #burning9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gburning.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gbusiness {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #business1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #business9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gbusiness.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gcamera {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #camera1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #camera9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gcamera.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gcanal {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #canal1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #canal9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gcanal.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gdancing {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dancing1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dancing9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gdancing.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gdesert {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #desert1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #desert9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gdesert.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gdress {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #dress1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #dress9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gdress.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gegypt {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #egypt1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #egypt9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gegypt.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gerosion {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #erosion1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #erosion9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gerosion.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gforeign {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #foreign1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #foreign9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gforeign.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gglass {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #glass1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glass9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gglass.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #ggreece {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #greece1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #greece9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #ggreece.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #ghazardous {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #hazardous1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #hazardous9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #ghazardous.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #ghighway {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #highway1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #highway9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #ghighway.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gillusion {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #illusion1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #illusion9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gillusion.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #ginvocation {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #invocation1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #invocation9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #ginvocation.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gjournal {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #journal1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #journal9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gjournal.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gkey {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #key1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #key9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gkey.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #glake {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #lake1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #lake9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glake.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #glandscape {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #landscape1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #landscape9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glandscape.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #glight {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #light1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #light9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #glight.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gluxuriant {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #luxuriant1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #luxuriant9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gluxuriant.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gmedicine {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #medicine1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #medicine9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gmedicine.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gmodern {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #modern1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #modern9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gmodern.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gmountain {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #mountain1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #mountain9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gmountain.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gnational {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #national1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #national9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gnational.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gnorth {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #north1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #north9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gnorth.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gorganization {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #organization1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #organization9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gorganization.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gpaper {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #paper1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #paper9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gpaper.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gperformer {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #performer1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #performer9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gperformer.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gplague {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #plague1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #plague9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gplague.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gportugal {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #portugal1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #portugal9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gportugal.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gpyramid {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #pyramid1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #pyramid9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gpyramid.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gquestion {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #question1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #question9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gquestion.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #grock {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #rock1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #rock9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #grock.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gsand {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #sand1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #sand9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gsand.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gtransport {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #transport1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #transport9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gtransport.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gurban {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #urban1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #urban9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gurban.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gutility {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #utility1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #utility9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gutility.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gvoice {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #voice1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #voice9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gvoice.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gwinter {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #winter1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #winter9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gwinter.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gwork {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #work1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #work9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gwork.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gwriting {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #writing1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #writing9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gwriting.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gyear {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #year1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #year9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gyear.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gzero {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zero1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zero9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gzero.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+         
+
+        #gzoo {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo1 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo2 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo3 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo4 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo5 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo6 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo7 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo8 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo9 {
+          display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+        }
+
+        #zoo1.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo2.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo3.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo4.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo5.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo6.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo7.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo8.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #zoo9.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+        #gzoo.g-visible {
+            display: block;
+            visibility: visible;
+            width: 100%;
+            height: 100%;
+          }
+
+  #scotch-panel {
+     display: none;
+          visibility: hidden;
+          width: 0;
+          height: 0;
+  }
