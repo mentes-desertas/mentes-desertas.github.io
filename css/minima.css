@@ -644,7 +644,7 @@ h2.panel-title {
     border: 0; }
 
 /**
- * imagens
+ * imagens gerador de índices
  */
 @media print {
   a.site-title {
@@ -662,6 +662,431 @@ h2.panel-title {
 
   body {
     font-size: 9.75px; } }
+.page-break.g-visible.um:before {
+  content: "p.2";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dois:before {
+  content: "p.4";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.tres:before {
+  content: "p.6";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.quatro:before {
+  content: "p.8";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.cinco:before {
+  content: "p.10";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.seis:before {
+  content: "p.12";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.sete:before {
+  content: "p.14";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.oito:before {
+  content: "p.16";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.nove:before {
+  content: "p.18";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dez:before {
+  content: "p.20";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.onze:before {
+  content: "p.22";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.doze:before {
+  content: "p.24";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.treze:before {
+  content: "p.26";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.catorze:before {
+  content: "p.28";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.quinze:before {
+  content: "p.30";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.desassseis:before {
+  content: "p.32";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.desassete:before {
+  content: "p.34";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dezoito:before {
+  content: "p.36";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dezanove:before {
+  content: "p.38";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte:before {
+  content: "p.40";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-um:before {
+  content: "p.42";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-dois:before {
+  content: "p.44";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-tres:before {
+  content: "p.46";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-quatro:before {
+  content: "p.50";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-cinco:before {
+  content: "p.52";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.um:after {
+  content: "p.3";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dois:after {
+  content: "p.5";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.tres:after {
+  content: "p.7";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.quatro:after {
+  content: "p.9";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.cinco:after {
+  content: "p.11";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.seis:after {
+  content: "p.13";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.sete:after {
+  content: "p.15";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.oito:after {
+  content: "p.17";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.nove:after {
+  content: "p.19";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dez:after {
+  content: "p.21";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.onze:after {
+  content: "p.23";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.doze:after {
+  content: "p.25";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.treze:after {
+  content: "p.27";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.catorze:after {
+  content: "p.29";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.quinze:after {
+  content: "p.31";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.desassseis:after {
+  content: "p.33";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.desassete:after {
+  content: "p.35";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dezoito:after {
+  content: "p.37";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.dezanove:after {
+  content: "p.39";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte:after {
+  content: "p.41";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-um:after {
+  content: "p.43";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-dois:after {
+  content: "p.45";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-tres:after {
+  content: "p.47";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-quatro:after {
+  content: "p.51";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
+.page-break.g-visible.vinte-e-cinco:after {
+  content: "p.53";
+  text-transform: uppercase;
+  position: absolute;
+  top: 30px;
+  right: 15px;
+  font-size: 11.25px;
+  color: #828282; }
+
 /**
  * Syntax highlighting styles
  */
