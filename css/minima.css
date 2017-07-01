@@ -627,6 +627,9 @@ h2.panel-title {
     border: 1px solid #cfcfcf; }
   .listinha.imagens-indice .livrinho {
     padding: 30px 15px 30px 0; }
+    @media screen and (max-width: 600px) {
+      .listinha.imagens-indice .livrinho {
+        padding: 30px 15px 30px 15px; } }
 
 /**
  * imagens

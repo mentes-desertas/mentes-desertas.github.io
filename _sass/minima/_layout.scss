@@ -579,6 +579,9 @@ h2.panel-title {
       }
     .livrinho {
       padding: $spacing-unit $spacing-unit/2 $spacing-unit 0;
+       @include media-query($on-palm) {
+        padding: $spacing-unit $spacing-unit/2 $spacing-unit $spacing-unit/2;
+      }
     }
   }
  }
