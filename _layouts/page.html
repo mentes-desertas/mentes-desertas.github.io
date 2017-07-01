@@ -1,14 +1,44 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+<div class="mywrapper">
+  <div class="row">
+		<div class="col-md-3">
+			<header class="page-header">
+			    <h5 class="page-title">{{ page.title | escape }}</h5>
+			  </header>
 
-</article>
+    	</div>
+	    <div class="col-md-6">
+	    	<article class="page">
+	    		<span class="smcaps">{{ page.author }}</span><br>
+	    		—<br>
+			  
+			  <div class="page-content">
+			  	<span class="smcaps"> {{ page.subtitle }}</span>
+			  	<br>
+			  	—
+			  	<br>
+			    {{ content }}
+			  </div>
+
+			</article>
+	    </div>
+
+
+		<div class="col-md-3">
+			<span class="smcaps"> 
+				índice<br>
+			—</span>  
+			<br>
+			<a href="#i" class="toc-item">I. A RESPIGA IMAGÉTICA</a>
+			<a href="#ii" class="toc-item">II. A RESPIGA POÉTICA</a>
+			<a href="#iii" class="toc-item">III. AS MENTES DESERTAS DIGITAIS</a>
+			<a href="#iv" class="toc-item">IV. AS MENTES DESERTAS IMPRESSAS</a>
+			<a href="#v" class="toc-item">V. CONCLUSÃO</a>
+
+		</div>
+	</div>
+</div>
