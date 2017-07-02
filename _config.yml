@@ -30,3 +30,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 permalink: /:categories/:title.html
+collections:
+  imagens:
