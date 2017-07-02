@@ -4,23 +4,23 @@ layout: default
 
 
 <div class="mywrapper">
-  <div class="row">
+  <div class="row page">
 		<div class="col-md-3">
 			<header class="page-header">
 			    <h5 class="page-title">{{ page.title | escape }}</h5>
 			  </header>
+			<h6 class="smcaps">
+			{{ page.author }}
+			</h6>
+	    	
 
     	</div>
 	    <div class="col-md-6">
-	    	<article class="page">
-	    		<span class="smcaps">{{ page.author }}</span><br>
-	    		—<br>
+	    	<article class="txt">
+	    		
 			  
 			  <div class="page-content">
-			  	<span class="smcaps"> {{ page.subtitle }}</span>
-			  	<br>
-			  	—
-			  	<br>
+			  	
 			    {{ content }}
 			  </div>
 
@@ -29,15 +29,9 @@ layout: default
 
 
 		<div class="col-md-3">
-			<span class="smcaps"> 
-				índice<br>
-			—</span>  
+			<h6 class="small"> {{ page.subtitle }}</h6>
 			<br>
-			<a href="#i" class="toc-item">I. A RESPIGA IMAGÉTICA</a>
-			<a href="#ii" class="toc-item">II. A RESPIGA POÉTICA</a>
-			<a href="#iii" class="toc-item">III. AS MENTES DESERTAS DIGITAIS</a>
-			<a href="#iv" class="toc-item">IV. AS MENTES DESERTAS IMPRESSAS</a>
-			<a href="#v" class="toc-item">V. CONCLUSÃO</a>
+			
 
 		</div>
 	</div>
