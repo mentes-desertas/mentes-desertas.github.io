@@ -1,0 +1,26 @@
+---
+layout: alternate-imagens
+title: "imagens"
+subtitle: "índice"
+---
+
+<div class="mywrapper">
+  <div class="card-columns">
+      {% for imagens in site.imagens %}
+        <div class="card">
+          <ul class="lista-imagens">
+            <li><a class="categories" name="{{ imagens.tags | first }}">{ {{ imagens.tags | first }} }</a>
+              <ul >
+                    <li>
+                      <img src="{{ imagens.image_path }}" alt="{{ imagens.title }}">
+                      <a href="{{ imagens.original_path }}" target="_blank">{{ imagens.title }}</a>
+                      <span class="ano">{{ imagens.year }}</span>
+                    </li>   
+              </ul>
+            </li>
+          </ul>
+        </div>
+      {% endfor %}
+  </div>
+</div>
+

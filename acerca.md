@@ -38,7 +38,7 @@ A recolha de imagens no website da biblioteca do congresso americano, <https://w
 
 > **iv.** Foram seleccionadas imagens onde se destacavam elementos como a textura, marcas da revelação fotográfica, e a presença de matéria acidental nas reproduções.  
 
-Finalizada a recolha obtiveram-se 126 imagens e 50 palavras-chave.   
+Finalizada a recolha obtiveram-se {{ site.imagens | size }} imagens e 50 palavras-chave.   
   
 
 ###### II. A RESPIGA POÉTICA
@@ -99,7 +99,7 @@ As respostas foram bastante distintas ou mesmo surpreendentes. Quase todas subve
 
 > **v.**  Foi submetido o mesmo texto por duas pessoas para duas palavras-chave distintas.  
   
-Todas estas subversões, ou acasos, foram aceites e contribuíram para o melhoramento da estrutura da antologia, ao introduzir mais variáveis e possibilidades de permutação. Até ao dia 30 de Junho foram recebidos e integrados no website 102 textos.   
+Todas estas subversões, ou acasos, foram aceites e contribuíram para o melhoramento da estrutura da antologia, ao introduzir mais variáveis e possibilidades de permutação. Até ao dia 30 de Junho foram recebidos e integrados no website {{ site.posts | size }} textos.   
 
 
 ###### III. AS MENTES DESERTAS DIGITAIS
