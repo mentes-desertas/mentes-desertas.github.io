@@ -650,8 +650,36 @@ blockquote {
   @include relative-font-size(0.85);
 }
 
-.page {
 
+.page {
+  p:first-of-type {
+    margin-bottom: 0px;
+  }
+   h6 {
+    @include smcaps(2px);
+    @include relative-font-size(0.95);
+  }
+  .txt {
+    h6 {
+      margin-bottom: $spacing-unit/2;
+      margin-top: $spacing-unit*1.5;
+      }
+  }
+  h6.small {
+    line-height: $base-line-height * $base-font-size * 0.75;
+    @include relative-font-size(0.65);
+  }
+
+}
+
+#markdown-toc {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  li a {
+  @include smcaps(2px);
+  @include relative-font-size(0.85);
+  }
 }
 
 @mixin pagina-esquerda {

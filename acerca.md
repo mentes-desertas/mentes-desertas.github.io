@@ -6,8 +6,12 @@ author: Rui Silva
 subtitle: "Projecto desevolvido no âmbito do Seminário de Materialidades da Literatura II — Programa de Doutoramento «Estudos Avançados em Materialidades da Literatura» da Faculdade de Letras da Universidade de Coimbra"
 ---
 
+<span class="smcaps">índice</span><br>
+—
+* TOC
+{:toc}
 
-<https://mentes-desertas.github.io>  
+
 —  
   
 > Metadata is data about data. They are words, tags, or descriptors associated with units of information (texts, images, videos, etc.) in order to classify them, access them through semantic filters, and relate them to other units. These organizational possibilities turn metadata into something more than a tool for ordering things: they are (at least potentially) a true narrative motor that allows us to browse information sequentially but in multiple ways according to varying criteria.
@@ -21,8 +25,8 @@ O utilizador, que apenas enxerga o que se apresenta no seu ecrã, e a máquina, 
 
 > […] in the 1930s and 1940s, people who were employed to do calculations—and it was predominantly women who performed clerical labor— were called “computers”. (Hayles, 2005:1)  
   
-<br>
-<span class="smcaps" id="i">I. A RESPIGA IMAGÉTICA</span>   
+
+###### I. A RESPIGA IMAGÉTICA 
   
 A recolha de imagens no website da biblioteca do congresso americano, <https://www.loc.gov/>, foi, em maioria, feita a partir de um conjunto de palavras geradas com o auto-complete da barra de pesquisa, uma ferramenta que tenta adivinhar o termo desejado após a inserção de dois caracteres. Permitiu-se um número variável de palavras por cada letra do alfabeto, de acordo com os resultados que foram sendo obtidos na pesquisa. Quase todos os termos em língua inglesa geram resultados, mas apenas aqueles que proporcionaram a escolha de uma imagem foram tidos em conta. O critério para a selecção de imagens foi bastante amplo:   
 
@@ -36,8 +40,8 @@ A recolha de imagens no website da biblioteca do congresso americano, <https://w
 
 Finalizada a recolha obtiveram-se 126 imagens e 50 palavras-chave.   
   
-<br>
-<span class="smcaps" id="ii">II. A RESPIGA POÉTICA</span>  
+
+###### II. A RESPIGA POÉTICA
 
 Para a recolha dos textos poéticos foi enviado um email com um pedido de colaboração a 45 pessoas, tendo sido obtidas 22 respostas. Transcreve-se, de seguida, a redacção desse convite:   
   
@@ -97,8 +101,8 @@ As respostas foram bastante distintas ou mesmo surpreendentes. Quase todas subve
   
 Todas estas subversões, ou acasos, foram aceites e contribuíram para o melhoramento da estrutura da antologia, ao introduzir mais variáveis e possibilidades de permutação. Até ao dia 30 de Junho foram recebidos e integrados no website 102 textos.   
 
-<br>
-<span class="smcaps" id="iii">III. AS MENTES DESERTAS DIGITAIS</span>  
+
+###### III. AS MENTES DESERTAS DIGITAIS
   
 A existência de websites que reúnem textos poéticos com imagens associadas, organizados segundo uma taxonomia, é significativa . Contudo, a Antologia Para Mentes Desertas não é um repositório de imagens e de textos, mas sim uma ferramenta que combina os resultados de duas pesquisas e os organiza a partir da exploração de diferentes possibilidades de permutação. As possibilidades de permuta, e as condições da sua formação, são preponderantes para o aparecimento do acto criativo no projecto, que surge como evento probabilístico e não como entidade constante. A Antologia funciona por encadeamento e os resultados de cada fase do projecto provocam efeitos sobre as subsequentes – da pesquisa ao website, do website à edição impressa.   
   
@@ -119,8 +123,8 @@ iv. O índice de imagens é uma lista de todas as imagens organizadas por palavr
 
 O website foi desenvolvido em Jekyll, um flat file cms codificado em Ruby on Rails que não possui uma base de dados, mas utiliza YAML (uma forma de XML) para registar dados sobre cada post (unidade base de conteúdo). O Jekyll integra uma template engine chamada Liquid que permite cruzar os dados de cada post. Todos os resultados aleatórios foram gerados em Javascript, porque o Liquid não permite gerar «non deterministic result[s]».  
 
-<br>
-<span class="smcaps" id="iv">iV. AS MENTES DESERTAS IMPRESSAS</span>  
+
+###### IV. AS MENTES DESERTAS IMPRESSAS
   
 O website da Antologia permite gerar um conjunto de permutações que estão constritas à expressividade do código das linguagens utilizadas, e ao nível de complexidade da programação desenvolvida. Nas versões impressas pretende-se alargar as hipóteses de emparelhamento, com o baralho de poemas e imagens, e reduzi-las, com a aplicação de duas combinações geradas no website em dois códices. As imagens serão reenquadradas para serem impressas ao corte.  
   
@@ -128,21 +132,21 @@ O baralho antológico consiste na reprodução a laser, a preto e branco, de tod
   
 Os códices antológicos irão reproduzir a combinação resultante de dois loads do gerador de índices para edições. Irão ser impressos a laser, a preto e branco, em formato A4 e terão 56 páginas mais a capa. O papel irá variar de cor, de textura e de gramagem de modo a reforçar a sensação, ainda que errónea, de que são objectos únicos. Cada códice representará um momento da Antologia, uma permutação possível, que, apesar de não ser em si irrepetível, é, no entanto, pouco provável que se repita.  
 
-<br>
-<span class="smcaps" id="v">V. CONCLUSÃO</span>  
+
+###### V. CONCLUSÃO
   
 > Probabilistic materiality conceives of a text as an event, rather than an entity. The event is the entire system of reader, aesthetic object and interpretation – but in that set of relations, the ‘text’ is constituted anew each time. Like weather produced in a system around a landmass, the shape of the Reading has a codependent relation to the structure from which it arises. Probability is not free play. It is constrained play, with outcomes calculable in accord with the complexity of the system and range of variable factors, and their combinatoric and transformative relations over time. A text is a highly complex system, containing a host of thermal sinks and basics of attraction.
 
 > DRUCKER, Johanna (2009), «Entity to Event: From Literal, Mechanistic Materiality to Probabilistic Materiality» in Parallax , 15: 4, 7 — 17  
 
 A Antologia Para Mentes Desertas é um projecto em potência que não está circunscrito a nenhum dos objectos realizados, mas sim às permutações que esta pode gerar. Cada objecto é um evento da Antologia e não a Antologia. A Antologia é uma base de dados de imagens e poesia que pode ser organizada e rearranjada de tantas outras formas como as que foram exploradas nestes objectos digitais e impressos. Pensar a edição como evento, como algo mutável e intermédia, pode ser uma forma de tornar mais evidente o fenómeno de reconstituição do texto a cada momento de leitura que Johanna Drucker defende, e é no fundo o propósito desta Antologia Para Mentes Desertas.   
-<br>
+
   
-<span class="smcaps">VI. BIBLIOGRAFIA</span>
+###### VI. BIBLIOGRAFIA
   
-> DRUCKER, Johanna (2009), «Entity to Event: From Literal, Mechanistic Materiality to Probabilistic Materiality» in Parallax 53.  
-HAYLES, Kathrine (2005) My Mother Was a Computer: Digital Subjects and Literary Texts, Chicago: The University of Chicago Press.  
-TISSELLI , Eugenio (2010), «Narrative Motors», in Regards Croises: Perspectives on Digital Literature, Morgantown: West Virginia University Press.  
+- DRUCKER, Johanna (2009), «Entity to Event: From Literal, Mechanistic Materiality to Probabilistic Materiality» in Parallax 53.
+- HAYLES, Kathrine (2005) My Mother Was a Computer: Digital Subjects and Literary Texts, Chicago: The University of Chicago Press.
+- TISSELLI , Eugenio (2010), «Narrative Motors», in Regards Croises: Perspectives on Digital Literature, Morgantown: West Virginia University Press.
 
 
 

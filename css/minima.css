@@ -686,6 +686,28 @@ blockquote {
   letter-spacing: 1px;
   font-size: 12.75px; }
 
+.page p:first-of-type {
+  margin-bottom: 0px; }
+.page h6 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 14.25px; }
+.page .txt h6 {
+  margin-bottom: 15px;
+  margin-top: 45px; }
+.page h6.small {
+  line-height: 18.5625px;
+  font-size: 9.75px; }
+
+#markdown-toc {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+  #markdown-toc li a {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12.75px; }
+
 .page-break.g-visible.um:before {
   content: "p. 2";
   text-transform: uppercase;
