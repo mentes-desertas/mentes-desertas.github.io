@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Uma vida esquecida "
+title:  "Uma Vida Esquecida "
 categories: glass
 author: António Maria Lisboa
 contributor: Sara Campino
@@ -8,7 +8,7 @@ imgs: 1
 year: 1952
 ---
 
-                      Para o Fernando Alves dos Santos  
+Para o Fernando Alves dos Santos  
 
 
 Eu conheço o vidro franja por franja  

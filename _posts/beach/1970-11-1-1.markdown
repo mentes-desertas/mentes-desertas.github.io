@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Uma candeia"
+title:  "Uma Candeia"
 categories: beach
 author: Luís Miguel Nava
 contributor: Sara Campino

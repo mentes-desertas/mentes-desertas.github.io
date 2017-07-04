@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Rústica mas não muito"
+title:  "Rústica Mas Não Muito"
 categories: canal
 author: Fiama Hasse Pais Brandão
 contributor: Alexandra Oliveira

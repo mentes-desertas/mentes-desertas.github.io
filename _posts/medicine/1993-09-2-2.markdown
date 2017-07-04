@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Dr. Bayard vou-me suicidar"
+title:  "Dr. Bayard Vou-me Suicidar"
 categories: medicine
 author: Adília Lopes
 contributor: Sara Campino

@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "V. Nenhum revérbero"
+title:  "V. Nenhum Revérbero"
 categories: rock
 author: Carlos de Oliveira
 contributor: Catarina Afonso

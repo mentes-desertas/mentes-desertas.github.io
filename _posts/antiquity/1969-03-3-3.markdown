@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Um Disfarce Uma Antiguidade"
+title:  "Um Disfarce uma Antiguidade"
 categories: antiquity
 author: Luiza Neto Jorge
 contributor: Sara Campino

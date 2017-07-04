@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Para atravessar contigo o deserto do mundo"
+title:  "Para Atravessar Contigo o Deserto do Mundo"
 categories: desert
 author: Sophia de Mello Breyner Andresen
 contributor: Ana Albuquerque

@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "La suma"
+title:  "La Suma"
 categories: zero
 author: Jorge Luís Borges
 contributor: Alexandra Oliveira
