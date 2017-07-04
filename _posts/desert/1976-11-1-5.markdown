@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Agrio está el mundo"
+title:  "Agrio Está el Mundo"
 categories: desert
 author: Alfonsina Storni
 contributor: Héctor Arnau

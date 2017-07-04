@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "The sea-shell"
+title:  "The Sea-shell"
 categories: sand
 author: Osip Mandelshtam 
 contributor: Mónica Batista

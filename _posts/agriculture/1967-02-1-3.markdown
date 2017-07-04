@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "A noite é o manicómio das plantas"
+title:  "A Noite é o Manicómio das Plantas"
 categories: agriculture
 author: Raúl Zurita
 contributor: Bruno Ministro

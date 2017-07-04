@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Não há Vagas"
+title:  "Não Há Vagas"
 categories: agriculture
 author: Ferreira Gullar
 contributor: Rita Gomes

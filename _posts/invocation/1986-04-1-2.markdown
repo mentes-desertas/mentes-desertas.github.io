@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "And death shall have no dominion"
+title:  "And Death Shall Have no Dominion"
 categories: invocation
 author: Dylan Thomas
 contributor: Héctor Arnau

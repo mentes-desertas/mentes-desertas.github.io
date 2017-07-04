@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "bundamel bundalis bundacor bundamor"
+title:  "Bundamel Bundalis Bundacor Bundamor"
 categories: luxuriant
 author: Carlos Drummond de Andrade
 contributor: Cecília Magalhães

@@ -1,0 +1,41 @@
+---
+layout: alternate-autores
+title: "autores & «antologiadores»"
+subtitle: "índice"
+---
+
+
+
+<div class="mywrapper">
+  <div class="row">
+  {% for category in site.categories %}
+  <div class="col-md-12">
+  <ul class="listinha">
+    <li><a class="categories" name="{{ category | first }}">{ {{ category | first }} }</a>
+      <ul >
+      {% for posts in category %}
+        {% for post in posts %}
+
+          { {{ post.categories }} }
+          <br><br>
+          <li><a href="{{ post.url }}">{{ post.title }}</a>  <br>
+          <span class="autor"> {{ post.author }} </span><br>
+          <br>
+          {{ post.content }}
+          <br>
+          {% if post.year %}<br> {{ post.year }} {% endif %}<br>  
+          {% if post.subtitle %}<br> {{ post.subtitle }} {% endif %}
+
+          <br>
+
+          ≠
+          </li>
+        {% endfor %}
+      {% endfor %}
+      </ul>
+    </li>
+    </ul>
+  </div>
+  {% endfor %}
+  </div>
+</div>

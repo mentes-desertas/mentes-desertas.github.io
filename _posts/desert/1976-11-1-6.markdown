@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Je rame"
+title:  "Je Rame"
 categories: desert
 author: Henri Michaux
 contributor: Héctor Arnau
