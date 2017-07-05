@@ -9,7 +9,7 @@
         {% for img in imgs_list %} 
         function {{ img[0] }}()
           {
-           return "/assets/imgs/{{ img[0] }}/" + Math.ceil(Math.random()*{% if img.imgs) %} {{ img.imgs }}{% else %}1 {% endif %}) + ".jpg"
+           return "/assets/imgs/{{ img[0] }}/" + Math.ceil(Math.random()*{% if img.imgs %} {{ img.imgs }}{% else %}1 {% endif %}) + ".jpg"
           };
 
     		$(document).ready(function(){
