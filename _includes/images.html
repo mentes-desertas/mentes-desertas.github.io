@@ -2,7 +2,7 @@
 
   function imagem()
           {
-           return "/assets/imgs/{{ page.categories }}/" + Math.ceil(Math.random()*{% if page.imgs) %} {{ page.imgs }}{% else %}1 {% endif %}) + ".jpg"
+           return "/assets/imgs/{{ page.categories }}/" + Math.ceil(Math.random()*{% if page.imgs %} {{ page.imgs }}{% else %}1 {% endif %}) + ".jpg"
           };
 
           
