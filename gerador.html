@@ -8,14 +8,10 @@ subtitle: "índice"
 
 
 <div class="mywrapper">
-  <div class="row">
-    <div class="col-md-2">
 
-    </div>
-    <div class="col-md-8">
       <div class="row">
       {% for category in site.categories %}
-      <div class="col-md-12 page-break" id="g{{ category | first }}">
+      <div class="col-md-4 page-break" id="g{{ category | first }}">
       <ul class="listinha imagens-indice">
         <li><span class="categories" name="{{ category | first }}">{{ category | first | truncate: 1, "" | upcase }} — { {{ category | first }} }</span>
           <ul >
@@ -29,9 +25,8 @@ subtitle: "índice"
                 </div>
                 <div class="col-sm-6">
                   <div class="livrinho">
-                    <a href="{{ post.url }}" class="h5">{{ post.title }}</a>  <br>
-                    <span class="autor"> {{ post.author }} {% if post.year %}<br> {{ post.year }} {% endif %} </span>
-                     <p>{{ post.content | truncate: 250 }}</p>
+                    <a href="{{ post.url }}" class="h6">{{ post.title }}</a>  <br>
+                    <span class="autor"> {{ post.author }}  </span>
 
                   </div>
                 </div>
@@ -45,12 +40,8 @@ subtitle: "índice"
       </div>
 
       {% endfor %}
-      </div>
-    </div>
-    <div class="col-md-2">
 
     </div>
-
 </div>
 
 
