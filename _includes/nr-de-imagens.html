@@ -1,0 +1,28 @@
+{% assign tags =  site.imagens | map: 'tags' | join: ','  | split: ',' | sort %}
+            {% assign previousTag = "" %}
+            {% assign counter = 0 %}
+            {% assign uniq_tags = site.imagens
+                      | map: 'tags'
+                      | join: ","
+                      | split: ","
+                      | uniq %}
+
+            {% for currentTag in tags %}
+
+              {% if previousTag == "" %}
+                {% assign previousTag = currentTag %}
+              {% endif %}
+
+              {% if currentTag == previousTag %}
+                {% assign counter = counter | plus: 1 %}
+              {% else %}
+                   {{ previousTag }} {{ counter }},
+                {% assign counter = 1 %}
+              {% endif %}
+
+              {% if forloop.last %}
+                {{ previousTag }} {{ counter }}
+              {% endif %}
+
+              {% assign previousTag = currentTag %}
+{% endfor %}

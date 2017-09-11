@@ -578,10 +578,14 @@ h2.panel-title {
         border: 1px solid $grey-color-light;
       }
     .livrinho {
-      padding: $spacing-unit $spacing-unit/2 $spacing-unit 0;
+      padding: $spacing-unit/2 $spacing-unit/2 $spacing-unit/4 0;
        @include media-query($on-palm) {
-        padding: $spacing-unit $spacing-unit/2 $spacing-unit $spacing-unit/2;
+        padding: $spacing-unit/4 $spacing-unit/4 $spacing-unit/4 $spacing-unit/4;
       }
+      .autor{
+        @include relative-font-size(0.75);
+        line-height: $base-line-height * $base-font-size * 0.75;
+        }
     }
   }
  }
@@ -608,6 +612,12 @@ h2.panel-title {
  * imagens gerador de índices
  */
 @media print {
+  @page {
+  size: A4 landscape;
+  }
+  .indice-livro {
+    width: 200px;
+  }
   a.site-title {
     text-align: center;
     display: block;

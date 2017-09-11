@@ -626,10 +626,13 @@ h2.panel-title {
     padding: 0;
     border: 1px solid #cfcfcf; }
   .listinha.imagens-indice .livrinho {
-    padding: 30px 15px 30px 0; }
+    padding: 15px 15px 7.5px 0; }
     @media screen and (max-width: 600px) {
       .listinha.imagens-indice .livrinho {
-        padding: 30px 15px 30px 15px; } }
+        padding: 7.5px 7.5px 7.5px 7.5px; } }
+    .listinha.imagens-indice .livrinho .autor {
+      font-size: 11.25px;
+      line-height: 18.5625px; }
 
 /**
  * imagens
@@ -649,6 +652,11 @@ h2.panel-title {
  * imagens gerador de índices
  */
 @media print {
+  @page {
+    size: A4 landscape; }
+  .indice-livro {
+    width: 200px; }
+
   a.site-title {
     text-align: center;
     display: block; }

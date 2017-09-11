@@ -1,0 +1,7 @@
+— DOCUMENTAÇÃO —
+
+
+— ANOMALIAS —
+
+#1 No ficheiro gerador.html as categorias estão "por extenso". É necessário acrescentar manualmente as novas.
+
