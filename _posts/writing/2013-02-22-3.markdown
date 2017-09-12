@@ -4,7 +4,7 @@ title:  "Escribir como Escupir"
 categories: writing
 author: Leopoldo María Panero
 contributor: Ricardo Castro
-imgs: 1
+imgs: 3
 year: 2008
 ---
 

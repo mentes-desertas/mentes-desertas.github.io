@@ -4,7 +4,7 @@ title:  "IV. Esta Substância?"
 categories: erosion
 author: Carlos de Oliveira
 contributor: Alexandra Oliveira
-imgs: 1
+imgs: 5
 year: 1971
 ---
 

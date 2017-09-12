@@ -4,7 +4,7 @@ title:  "Pára-me de Repente o Pensamento"
 categories: alarm
 author: Ângelo de Lima
 contributor: Patrícia Guerreiro Nunes
-imgs: 1
+imgs: 3
 ---
 
 Pára-me de repente o pensamento   

@@ -4,7 +4,7 @@ title:  "O Jardim"
 categories: luxuriant
 author: António Ramos Rosa
 contributor: Filipa
-imgs: 1
+imgs: 3
 year: 1986
 ---
 

@@ -4,7 +4,7 @@ title:  "Bundamel Bundalis Bundacor Bundamor"
 categories: luxuriant
 author: Carlos Drummond de Andrade
 contributor: Cecília Magalhães
-imgs: 1
+imgs: 3
 year: 1992
 ---
 

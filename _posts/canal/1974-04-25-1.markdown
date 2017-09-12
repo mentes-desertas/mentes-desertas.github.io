@@ -4,7 +4,7 @@ title:  "Rústica Mas Não Muito"
 categories: canal
 author: Fiama Hasse Pais Brandão
 contributor: Alexandra Oliveira
-imgs: 1
+imgs: 4
 year: 1985
 ---
 

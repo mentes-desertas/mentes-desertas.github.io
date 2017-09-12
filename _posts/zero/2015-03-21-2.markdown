@@ -4,7 +4,7 @@ title:  "[The dead swans lay in the stagnant pool]"
 categories: zero
 author: Paula Nancy Millstone Jennings
 contributor: Fábio Waki
-imgs: 1
+imgs: 2
 year: 1981
 ---
 

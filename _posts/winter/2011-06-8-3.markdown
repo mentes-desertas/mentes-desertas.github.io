@@ -4,7 +4,7 @@ title:  "Poèmes Esquimaux"
 categories: winter
 author: Paul-Emile Victor
 contributor: Rovo
-imgs: 1
+imgs: 2
 ---
 
 <img src="/assets/extras/esquimo-1.jpg">

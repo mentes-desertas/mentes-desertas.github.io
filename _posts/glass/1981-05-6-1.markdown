@@ -4,7 +4,7 @@ title:  "Uma Vida Esquecida "
 categories: glass
 author: António Maria Lisboa
 contributor: Sara Campino
-imgs: 1
+imgs: 4
 year: 1952
 ---
 

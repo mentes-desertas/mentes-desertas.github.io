@@ -4,7 +4,7 @@ title:  "Em Creta com o Minotauro"
 categories: national
 author: Jorge de Sena
 contributor: Catarina Laranjeiro
-imgs: 1
+imgs: 3
 ---
 
 Nascido em Portugal, de pais portugueses  

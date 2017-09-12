@@ -4,7 +4,7 @@ title:  "Entre a Cortina e a Vidraça"
 categories: journal
 author: Alexandre O’Neill
 contributor: Catarina Afonso
-imgs: 1
+imgs: 5
 year: 1972
 ---
 
