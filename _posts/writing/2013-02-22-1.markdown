@@ -4,7 +4,7 @@ title:  "[Quando se escreve é para que as coisas]"
 categories: writing
 author: António Ramos Rosa
 contributor: Sara Campino
-imgs: 1
+imgs: 3
 year: 2001
 ---
 

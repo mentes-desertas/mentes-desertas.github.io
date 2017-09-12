@@ -4,7 +4,7 @@ title:  "A Autêntica Estação"
 categories: winter
 author: Ruy Belo
 contributor: Sara Campino
-imgs: 1
+imgs: 2
 year: 1970
 ---
 

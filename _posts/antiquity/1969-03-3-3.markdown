@@ -4,7 +4,7 @@ title:  "Um Disfarce uma Antiguidade"
 categories: antiquity
 author: Luiza Neto Jorge
 contributor: Sara Campino
-imgs: 2
+imgs: 4
 year: 1966
 ---
 

@@ -4,7 +4,7 @@ title:  "La Suma"
 categories: zero
 author: Jorge Luís Borges
 contributor: Alexandra Oliveira
-imgs: 1
+imgs: 2
 year: 1985
 ---
 

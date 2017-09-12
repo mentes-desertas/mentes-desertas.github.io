@@ -4,7 +4,7 @@ title:  "A Paixão Grega"
 categories: antiquity
 author: Herberto Helder
 contributor: Rita Gomes
-imgs: 2
+imgs: 4
 ---
 
 Li algures que os gregos antigos não escreviam necrológios,  

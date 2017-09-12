@@ -4,7 +4,7 @@ title:  "A Minha Querida Pátria"
 categories: national
 author: Mário-Henrique Leiria
 contributor: Carlos Melo
-imgs: 1
+imgs: 3
 ---
 
 a pátria   

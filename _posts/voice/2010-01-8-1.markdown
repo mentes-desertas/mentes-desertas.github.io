@@ -4,7 +4,7 @@ title:  "Hypatie"
 categories: voice
 author: Leconte de Lisle
 contributor: Amélie Bouvier
-imgs: 1
+imgs: 2
 year: 1847
 ---
 

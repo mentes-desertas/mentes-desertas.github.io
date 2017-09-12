@@ -5,7 +5,7 @@ subtitle: "[fragmento de «Hamlet»]"
 categories: question
 author: William Shakespeare
 contributor: Claire de Mattia
-imgs: 1
+imgs: 2
 ---
 
 To be, or not to be, that is the question:  

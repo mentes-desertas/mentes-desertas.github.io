@@ -4,7 +4,7 @@ title:  "Hypatie"
 categories: antiquity
 author: Leconte de Lisle
 contributor: Amélie Bouvier
-imgs: 2
+imgs: 4
 year: 1847
 ---
 

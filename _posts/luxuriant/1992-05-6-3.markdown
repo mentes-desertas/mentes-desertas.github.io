@@ -4,7 +4,7 @@ title:  "La Pioggia nel Pineto"
 categories: luxuriant
 author: Gabriele D'Annunzio
 contributor: Claire de Mattia
-imgs: 1
+imgs: 3
 year: 1902
 ---
 

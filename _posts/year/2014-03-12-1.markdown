@@ -4,7 +4,7 @@ title:  "Ano-Novo"
 categories: year
 author: Ferreira Gullar
 contributor: Alexandra Oliveira
-imgs: 1
+imgs: 2
 ---
 
 Meia-noite. Fim  

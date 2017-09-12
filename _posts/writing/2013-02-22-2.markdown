@@ -4,7 +4,7 @@ title:  "Stillborn"
 categories: writing
 author: Sylvia Plath
 contributor: Héctor Arnau
-imgs: 1
+imgs: 3
 year: 1960
 ---
 
