@@ -1,0 +1,15 @@
+---
+layout: master
+title:  "Barreirinha"
+categories: question
+author: Manuel de Freitas
+contributor: Luís Henriques
+imgs: 2
+---
+
+De repente, pai, entre  
+o silêncio de duas ondas,  
+ouvimos a única pergunta:  
+  
+quantas vezes  
+ainda nadaremos juntos?  

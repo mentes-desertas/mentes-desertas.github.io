@@ -1,0 +1,25 @@
+---
+layout: master
+title:  "A Lagoa"
+categories: lake
+author: Carlos Drummond de Andrade
+contributor: Luca Argel
+imgs: 3
+---
+
+Eu não vi o mar.  
+Não sei se o mar é bonito,  
+não sei se ele é bravo.  
+O mar não me importa.  
+  
+Eu vi a lagoa.  
+A lagoa, sim.  
+A lagoa é grande  
+E calma também.  
+  
+Na chuva de cores  
+da tarde que explode  
+a lagoa brilha  
+a lagoa se pinta  
+de todas as cores.  
+Eu não vi o mar. Eu vi a lagoa...  
