@@ -1,0 +1,12 @@
+---
+layout: master
+title:  "os amigos embriagados "
+categories: illusion
+author: Matsuo Bashô
+contributor: Mariana Caló
+imgs: 2
+---
+
+os amigos embriagados  
+falam inclinados  
+como cascatas de flores  

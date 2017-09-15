@@ -805,6 +805,10 @@ blockquote {
   content: "p. 48";
   @include pagina-esquerda;
 }
+.page-break.g-visible.vinte-e-seis:before {
+  content: "p. 50";
+  @include pagina-esquerda; 
+}
 .page-break.g-visible.vinte-e-quatro:before {
   content: "p. 52";
   @include pagina-esquerda;
@@ -905,6 +909,10 @@ blockquote {
 }
 .page-break.g-visible.vinte-e-tres:after {
   content: "p. 49";
+  @include pagina-direita;
+}
+.page-break.g-visible.vinte-e-seis:after {
+  content: "p. 51";
   @include pagina-direita;
 }
 .page-break.g-visible.vinte-e-quatro:after {

@@ -1,0 +1,12 @@
+---
+layout: master
+title:  "No vento que sopra"
+categories: lake
+author: Matsuo Bashô
+contributor: Mariana Caló
+imgs: 3
+---
+
+No vento que sopra,  
+um peixe salta   
+e fica purificado  
