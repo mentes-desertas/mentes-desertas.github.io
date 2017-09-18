@@ -1,0 +1,11 @@
+---
+layout: master
+title:  "In a Station of the Metro"
+categories: modern
+author: Ezra Pound
+contributor: Irina Pereira
+imgs: 5
+---
+
+The apparition of these faces in the crowd:
+Petals on a wet, black bough.
