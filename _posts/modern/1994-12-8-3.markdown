@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "In a Station of the Metro"
+title:  "Shopping Center"
 categories: modern
 author: Júlio Henriques
 contributor: Irina Pereira
