@@ -654,12 +654,22 @@ h2.panel-title {
 @media print {
   @page {
     size: A4 landscape; }
+  body {
+    font-family: Georgia, serif; }
+
   .indice-livro {
     width: 200px; }
 
   a.site-title {
     text-align: center;
     display: block; }
+
+  .listinha ul .autor {
+    letter-spacing: 0px;
+    font-size: 8px; }
+
+  .livrinho a.h6 {
+    font-size: 12px; }
 
   .dontprint {
     display: none; }
