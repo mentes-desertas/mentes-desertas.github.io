@@ -1,6 +1,6 @@
 ---
 layout: master
-title: "o gato com cio"
+title: "O Gato com Cio"
 categories: utility
 author: Matsuo Bashô
 contributor: Mariana Caló
