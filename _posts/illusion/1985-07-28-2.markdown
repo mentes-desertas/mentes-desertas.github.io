@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "os amigos embriagados "
+title:  "Os Amigos Embriagados "
 categories: illusion
 author: Matsuo Bashô
 contributor: Mariana Caló
