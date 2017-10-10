@@ -1,0 +1,13 @@
+---
+layout: master
+title:  "Sem saber a altura"
+categories: performer
+author: Tsuda Kiyoko
+contributor: Mariana Costa
+imgs: 4
+---
+
+Sem saber a altura  
+da montanha, uma formiga  
+sobe ao meu joelho.  
+
