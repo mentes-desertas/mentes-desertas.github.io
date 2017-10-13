@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Chega a ter gosto a chuva vista dos cafés"
+title:  "[Chega a Ter Gosto a Chuva Vista dos Cafés]"
 categories: portugal
 author: António Reis
 contributor: Francisco Queimadela

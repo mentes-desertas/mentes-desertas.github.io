@@ -1,7 +1,6 @@
 ---
 layout: master
 title:  "Tribal"
-subtitle: "[fragmento de «IV» do conjunto «Do Mundo»]"
 categories: work
 author: Aaron Belz
 contributor: Christina Casnellie
