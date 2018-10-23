@@ -1,0 +1,13 @@
+---
+layout: master
+title:  "A espera"
+categories: portugal
+author: Miguel Torga
+contributor: Ana Albuquerque
+imgs: 3
+---
+
+E a expedição partiu.
+Partiu, e o coração da mãe parou.
+E parado de angústia assim viveu
+Enquanto a caravela não voltou.
