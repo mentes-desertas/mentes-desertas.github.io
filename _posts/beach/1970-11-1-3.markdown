@@ -1,6 +1,6 @@
 ---
 layout: master
-title:  "Liberdade"
+title:  "Este búzio não o encontrei eu própria numa praia"
 categories: beach
 author: Sophia de Mello Breyner
 contributor: Ana Albuquerque
